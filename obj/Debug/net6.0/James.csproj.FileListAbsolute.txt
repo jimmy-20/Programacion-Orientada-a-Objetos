@@ -1,0 +1,15 @@
+C:\Users\Pc\Desktop\James\bin\Debug\net6.0\James.exe
+C:\Users\Pc\Desktop\James\bin\Debug\net6.0\James.deps.json
+C:\Users\Pc\Desktop\James\bin\Debug\net6.0\James.runtimeconfig.json
+C:\Users\Pc\Desktop\James\bin\Debug\net6.0\James.dll
+C:\Users\Pc\Desktop\James\bin\Debug\net6.0\James.pdb
+C:\Users\Pc\Desktop\James\obj\Debug\net6.0\James.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\James\obj\Debug\net6.0\James.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\James\obj\Debug\net6.0\James.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\James\obj\Debug\net6.0\James.AssemblyInfo.cs
+C:\Users\Pc\Desktop\James\obj\Debug\net6.0\James.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\James\obj\Debug\net6.0\James.dll
+C:\Users\Pc\Desktop\James\obj\Debug\net6.0\refint\James.dll
+C:\Users\Pc\Desktop\James\obj\Debug\net6.0\James.pdb
+C:\Users\Pc\Desktop\James\obj\Debug\net6.0\James.genruntimeconfig.cache
+C:\Users\Pc\Desktop\James\obj\Debug\net6.0\ref\James.dll
